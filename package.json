@@ -1,0 +1,22 @@
+{
+  "name": "discord-openai-image-bot",
+  "description": "a simple bot using OpenAI API",
+  "main": "index.js",
+  "author": {
+      "name": "Rafael da Silva Medeiros",
+      "email": "rafael.medeiros@unifesp.br"
+  },
+  "repository": "github.com/",
+  "keywords": ["openai", "discord", "node", "image", "bot", "ai"],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "jimp": "^0.22.4",
+    "math": "^0.0.3",
+    "node-sass": "^8.0.0",
+    "openai": "^3.1.0",
+    "tmp": "^0.2.1"
+  }
+}

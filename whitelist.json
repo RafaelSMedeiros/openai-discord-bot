@@ -1,0 +1,14 @@
+{
+    "allowedUsers": [
+        {
+            "username": "Reegtz",
+            "userID": "285825297218142218",
+            "premium": true
+        },
+        {
+            "username": "User",
+            "userID": "UserID",
+            "premium": false
+        }
+    ]
+}
